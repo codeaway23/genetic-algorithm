@@ -7,6 +7,4 @@ Variation parameters available:
 2. Mutation rate
 3. Death rate
 
-Uses roulette wheel selection for breeding. 
-
-Does not have a convergence criteria yet. 
+Uses ranked selection for breeding. 
